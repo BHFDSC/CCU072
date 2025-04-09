@@ -14,7 +14,7 @@ We will produce a report providing key epidemiological statistics, and make sure
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU072_01: Influence of COVID-19 on British burden of cardiovascular disease](https://github.com/BHFDSC/CCU072_01)
 
 ## Project approval
 
